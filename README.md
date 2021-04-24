@@ -12,15 +12,14 @@ I'm currently an iOS Enginee [@Stride](https://www.stridehealth.com/) working on
 
 ### 📚 Reading List for Q2 2021
 
-*  🔑 Leading Change at Work 
-* 💡 The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google[🔄]
-* 🧘🏽‍♂️ Organized Mind
-* 🥶 How coool brands stay hot
-* 🚫 To Hell w/ the Hustle
-* 🧬 Hacking Growth
-* 📈 The Bogleheads' Guide to Investing
-* 📃 The Toyota Way
-* 🏷 Made to Stick
+*  🔑 [Leading Change at Work](https://www.amazon.com/Leading-Change-At-Work-Structure/dp/1092964282#:~:text=Leading%20Change%20at%20Work%20is,come%20only%20from%20the%20top.) 
+* 💡 [The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google](https://www.amazon.com/Four-Hidden-Amazon-Facebook-Google/dp/0525501223)
+* 🧘🏽‍♂️ [Organized Mind](https://www.amazon.com/Organized-Mind-Thinking-Straight-Information/dp/0147516315)
+* 🚫 [To Hell w/ the Hustle](https://www.amazon.com/Hell-Hustle-Reclaiming-Overworked-Overconnected/dp/0718039203)
+* 🧬 [Hacking Growth](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X)
+* 📈 [The Bogleheads' Guide to Investing](https://www.amazon.com/Bogleheads-Guide-Investing-Taylor-Larimore/dp/1118921283)
+* 📃 [The Toyota Way](https://www.amazon.com/Toyota-Way-Management-Principles-Manufacturer/dp/0071392319)
+* 🏷 [Made to Stick](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287)
 
 
 ### 🌐 Get in touch with Me
