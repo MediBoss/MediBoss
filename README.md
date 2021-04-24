@@ -3,9 +3,6 @@
 ### 💻 What I do at work
 
 I'm currently an iOS Enginee [@Stride](https://www.stridehealth.com/) working on the [Engagement Squad](https://www.stridehealth.com/tax) where I build a suite of tools for gig workers to help them with taxes, business expenses, benefits, banking and more. I mainly work with Swift( and Objective-C, sadly) on a day to day basis to contineouly ship impactful features(and bug fixes of course) to our end users. Additionlay, I've also been learning more about the concenpt of Mobile DevOps to build a much robust deployment pipeline for our iOS App. 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MediBoss&layout=compact&show_icons=true&title_color=fff&icon_color=fc8930&text_color=9f9f9f&bg_color=151515" alt="languages" height="176">
-</p>
 
 ### 📌 What I do outside of work
 
