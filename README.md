@@ -24,7 +24,7 @@ I'm currently an iOS Engineer [@Stride](https://www.stridehealth.com/) working o
 
 ### 🌐 Get in touch with Me
 
-  <a href="mediassumani49@gmail.com">
+  <a href="mailto:mediassumani49@gmail.com">
     <img align="left" alt="Medi Assumani | Medium" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/gmail-32-761667.png"/>
   </a>
   <a href="https://medium.com/@mediassumani49">
