@@ -6,11 +6,11 @@ I'm currently an iOS Engineer [@Stride](https://www.stridehealth.com/) working o
 
 ### 📌 What I do outside of work
 
-* Learning how to consume data from a GraphQL API on iOS using  using [Apollo](https://www.apollographql.com/docs/ios/)
+* Learning how to consume data from a GraphQL API on iOS using [Apollo](https://www.apollographql.com/docs/ios/)
 * Writting Technical Blogs on [Medium](https://medium.com/@mediassumani49).
 * I'm a huge [Manchester United🔴](https://www.google.com/search?q=manchester+united&oq=manche&aqs=chrome.1.69i57j35i39i355j46i67i433j0i67i131i433j46i433j69i60l2j69i65.1588j1j1&sourceid=chrome&ie=UTF-8#sie=t;/m/050fh;2;/m/02_tc;mt;fp;1;;) fan, so I always have NBC Sports on every weekends!
 
-### 📚 Reading List for Q2 2021
+### 📚 What Im reading in Q2 2021
 
 *  🔑 [Leading Change at Work](https://www.amazon.com/Leading-Change-At-Work-Structure/dp/1092964282#:~:text=Leading%20Change%20at%20Work%20is,come%20only%20from%20the%20top.) 
 * 💡 [The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google](https://www.amazon.com/Four-Hidden-Amazon-Facebook-Google/dp/0525501223)
