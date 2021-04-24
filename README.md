@@ -1,4 +1,4 @@
-### Hi there, I'M Medi Assumani 👋
+### Hi there, I'm Medi Assumani 👋
 
 ### 💻 What I do at work
 
