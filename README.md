@@ -2,7 +2,7 @@
 
 ### 💻 What I do at work
 
-I'm currently an iOS Engineer [@Stride](https://www.stridehealth.com/) working on the [Engagement Squad](https://www.stridehealth.com/tax) where I build a suite of tools for gig workers to help them with taxes, business expenses, benefits, banking and more. I mainly work with Swift( and Objective-C, sadly) on a day to day basis to contineouly ship impactful features(and bug fixes of course) to our end users.
+I'm currently an iOS Engineer [@Stride](https://www.stridehealth.com/) working on the [Engagement Squad(aka Tax Team)](https://www.stridehealth.com/tax) where I build a suite of tools for gig workers to help them with taxes, business expenses, benefits, banking and more. I mainly work with Swift( and Objective-C, sadly) on a day to day basis to contineouly ship impactful features(and bug fixes of course) to our end users.
 
 ### 📌 What I do outside of work
 
